@@ -1,0 +1,16 @@
+.ipynb_checkpoints/
+.vscode/
+fonts/
+in/
+out/
+tool/
+*.wav
+*.mp3
+*.ogg
+*.avi
+*.mp4
+*.png
+*.jpg
+*.bak
+ffmpeg
+.DS_Store
