@@ -2,7 +2,7 @@
 音を入れると動画が出てくる箱
 
 Lite版
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nankasuisui/song2movie/blob/main/song2movie_light.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nankasuisui/song2movie/blob/main/song2movie-light.ipynb)
 
 もう少し設定を細かく変更したい場合には:
 
